@@ -1,0 +1,450 @@
+0--Parade/0_Parade_marchingband_1_639.jpg
+1
+121 342 307 357 0 0 0 0 0 0
+0--Parade/0_Parade_marchingband_1_1031.jpg
+1
+276 266 554 610 0 0 0 0 0 0
+0--Parade/0_Parade_marchingband_1_1048.jpg
+1
+432 128 252 362 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_242.jpg
+1
+530 394 196 269 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_745.jpg
+1
+384 228 288 402 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_763.jpg
+1
+252 244 541 696 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_761.jpg
+1
+207 459 330 441 0 1 0 0 0 0
+0--Parade/0_Parade_Parade_0_773.jpg
+1
+209 888 525 775 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_855.jpg
+1
+465 146 203 300 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_883.jpg
+1
+532 168 219 287 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_904.jpg
+1
+361 98 263 339 0 0 0 0 0 0
+0--Parade/0_Parade_Parade_0_928.jpg
+1
+416 92 170 224 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_19.jpg
+1
+313 191 238 279 0 0 0 0 1 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_54.jpg
+1
+390 110 184 248 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_70.jpg
+1
+412 126 250 352 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_73.jpg
+1
+338 296 395 569 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_76.jpg
+1
+406 140 178 264 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_884.jpg
+1
+319 201 449 647 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_101.jpg
+1
+462 72 94 148 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_107.jpg
+1
+307 172 284 438 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_112.jpg
+1
+178 361 649 875 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_115.jpg
+1
+490 74 160 240 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_139.jpg
+1
+246 240 411 549 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_144.jpg
+1
+316 120 292 374 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_145.jpg
+1
+317 263 323 431 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_146.jpg
+1
+448 198 160 212 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_149.jpg
+1
+427 291 276 363 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_151.jpg
+1
+284 86 202 272 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_156.jpg
+1
+321 197 266 319 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_170.jpg
+1
+346 434 322 398 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_177.jpg
+1
+401 108 254 364 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_191.jpg
+1
+302 320 314 447 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_194.jpg
+1
+284 154 314 394 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_230.jpg
+1
+361 184 333 465 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_232.jpg
+1
+456 84 176 256 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_250.jpg
+1
+360 132 165 248 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_266.jpg
+1
+400 150 208 290 0 0 0 0 0 0 
+9--Press_Conference/9_Press_Conference_Press_Conference_9_273.jpg
+1
+297 105 351 514 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_286.jpg
+1
+336 255 312 460 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_290.jpg
+1
+351 143 387 567 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_302.jpg
+1
+335 125 254 344 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_306.jpg
+1
+432 159 169 212 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_308.jpg
+1
+410 126 237 335 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_313.jpg
+1
+303 297 384 538 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_327.jpg
+1
+518 170 332 410 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_329.jpg
+1
+407 207 215 316 0 0 1 0 0 0 
+9--Press_Conference/9_Press_Conference_Press_Conference_9_341.jpg
+1
+381 303 312 414 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_350.jpg
+1
+364 343 364 439 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_384.jpg
+1
+337 252 355 484 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_379.jpg
+1
+426 158 318 420 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_388.jpg
+1
+255 231 432 580 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_394.jpg
+1
+182 370 443 634 0 0 0 0 0 0 
+9--Press_Conference/9_Press_Conference_Press_Conference_9_395.jpg
+1
+402 198 364 506 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_404.jpg
+1
+408 182 158 226 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_420.jpg
+1
+350 118 252 328 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_427.jpg
+1
+354 204 249 288 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_430.jpg
+1
+390 156 277 371 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_454.jpg
+1
+344 244 293 417 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_457.jpg
+1
+326 417 323 393 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_466.jpg
+1
+159 360 604 835 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_474.jpg
+1
+492 92 212 282 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_477.jpg
+1
+276 246 312 417 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_487.jpg
+1
+364 108 254 350 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_490.jpg
+1
+308 219 287 341 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_502.jpg
+1
+355 191 430 591 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_523.jpg
+1
+235 346 425 581 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_524.jpg
+1
+249 95 451 614 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_525.jpg
+1
+391 191 299 434 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_537.jpg
+1
+355 209 487 660 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_564.jpg
+1
+311 238 449 634 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_568.jpg
+1
+282 234 492 595 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_581.jpg
+1
+280 260 335 481 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_587.jpg
+1
+423 180 162 225 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_592.jpg
+1
+78 255 398 518 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_614.jpg
+1
+462 140 264 362 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_616.jpg
+1
+189 246 634 808 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_622.jpg
+1
+205 120 434 620 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_623.jpg
+1
+336 372 276 357 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_631.jpg
+1
+299 205 471 740 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_637.jpg
+1
+327 252 397 579 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_644.jpg
+1
+343 130 214 331 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_659.jpg
+1
+483 195 252 348 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_670.jpg
+1
+169 341 767 1014 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_671.jpg
+1
+228 225 429 628 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_684.jpg
+1
+384 77 217 320 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_708.jpg
+1
+312 228 402 507 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_709.jpg
+1
+416 250 440 590 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_719.jpg
+1
+393 321 315 435 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_723.jpg
+1
+170 142 342 438 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_736.jpg
+1
+300 414 426 607 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_737.jpg
+1
+312 192 479 642 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_742.jpg
+1
+179 204 560 727 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_745.jpg
+1
+420 357 300 450 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_750.jpg
+1
+292 239 319 407 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_753.jpg
+1
+381 227 319 470 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_761.jpg
+1
+297 272 416 628 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_770.jpg
+1
+207 174 570 631 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_773.jpg
+1
+394 148 272 332 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_789.jpg
+1
+418 223 177 252 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_795.jpg
+1
+392 304 346 455 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_806.jpg
+1
+401 185 279 406 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_811.jpg
+1
+297 303 459 616 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_839.jpg
+1
+369 258 231 318 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_840.jpg
+1
+291 199 375 506 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_844.jpg
+1
+333 240 441 661 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_848.jpg
+1
+366 162 405 565 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_854.jpg
+1
+362 101 263 391 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_855.jpg
+1
+326 118 284 428 0 0 1 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_861.jpg
+1
+337 296 408 570 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_863.jpg
+1
+120 343 503 693 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_868.jpg
+1
+308 175 350 492 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_879.jpg
+1
+351 223 376 606 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_884.jpg
+1
+319 201 449 647 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_892.jpg
+1
+254 305 468 686 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_902.jpg
+1
+321 207 399 616 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_903.jpg
+1
+213 322 446 515 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_919.jpg
+1
+341 236 387 535 0 0 0 0 0 0 
+9--Press_Conference/9_Press_Conference_Press_Conference_9_928.jpg
+1
+276 217 459 641 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_946.jpg
+1
+333 175 368 519 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_940.jpg
+1
+390 170 252 380 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_935.jpg
+1
+224 314 441 541 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_14.jpg
+1
+269 311 536 748 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_154.jpg
+1
+299 252 417 557 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_182.jpg
+1
+414 144 156 244 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_222.jpg
+1
+314 216 300 406 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_199.jpg
+1
+431 184 244 370 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_231.jpg
+1
+432 13 493 552 0 0 1 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_253.jpg
+1
+334 208 408 542 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_270.jpg
+1
+502 104 194 254 0 0 1 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_284.jpg
+1
+123 301 336 418 0 0 1 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_305.jpg
+1
+368 83 283 475 0 1 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_352.jpg
+1
+239 254 423 536 0 0 0 0 0 0 
+13--Interview/13_Interview_Interview_2_People_Visible_13_393.jpg
+1
+102 251 605 804 0 0 0 0 0 0 
+9--Press_Conference/9_Press_Conference_Press_Conference_9_856.jpg
+1
+293 214 442 559 0 0 0 0 0 0
+9--Press_Conference/9_Press_Conference_Press_Conference_9_857.jpg
+1
+318 200 393 587 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_419.jpg
+1
+480 80 120 184 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_451.jpg
+1
+584 106 164 250 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_456.jpg
+1
+282 92 326 482 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_2_People_Visible_13_560.jpg
+1
+286 96 200 328 0 1 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_21.jpg
+1
+410 253 193 286 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_30.jpg
+1
+451 64 261 403 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_108.jpg
+1
+297 378 165 225 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_110.jpg
+1
+290 116 240 344 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_180.jpg
+1
+470 44 164 248 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_181.jpg
+1
+312 312 489 640 0 0 1 0 0 0 
+13--Interview/13_Interview_Interview_On_Location_13_276.jpg
+1
+254 8 590 660 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_303.jpg
+1
+406 122 331 461 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_382.jpg
+1
+442 6 208 304 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_392.jpg
+1
+410 321 208 293 0 0 0 0 0 0
+13--Interview/13_Interview_Interview_On_Location_13_421.jpg
+1
+436 128 166 254 0 0 0 0 0 0
