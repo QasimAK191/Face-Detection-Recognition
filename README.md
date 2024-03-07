@@ -1,5 +1,5 @@
 # Face-Detection-CPS803-main
-My Machine Learning project for uni - done in a team with Ahmet, Craig, and Nicolas!
+Presentation Video: https://youtu.be/_jbV5Tu_RwE
 
 
 ## Creating conda environment
