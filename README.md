@@ -1,4 +1,4 @@
-# Face-Detection-CPS803-main
+# Face-Detection-Recognition
 Presentation Video: https://youtu.be/_jbV5Tu_RwE
 
 
